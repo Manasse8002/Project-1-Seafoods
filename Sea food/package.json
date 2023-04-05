@@ -1,0 +1,19 @@
+{
+  "name": "dog-facts",
+  "version": "1.0.0",
+  "description": "Dog facts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Manasse8002/Project-1-ph1.git)"
+  },
+  "keywords": [
+    "\"Dog\"",
+    "\"facts\""
+  ],
+  "author": "Manasse K",
+  "license": "ISC"
+}
