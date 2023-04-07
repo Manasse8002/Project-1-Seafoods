@@ -14,6 +14,7 @@ Navigate to the project directory in your terminal.
 Then navigate to your browser to check it's workability
 
 ## How to use my project
+use this link to my repo https://github.com/Manasse8002/Project-1-ph1
 once it loads on your browser you should be able to see some different dishes of sea foods
 You should also be able to see the sea food's specific names 
 you also can press the like button if you like a meal
