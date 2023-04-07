@@ -1,49 +1,40 @@
 # Project-1-ph1
 
 ## About
-
 ### Sea foods
 My project is called sea foods.
 This is a wall where you can see the different dishes of sea foods.
 I created it since I noted that in many of the menus in my place don't have sea foods displayed yet they cook and serve them.
-The purpose of the wall is to ensure that the hotels are more efficient since now they can have their menus online in soft copies hence making their work easier.
-
+The purpose of the wall is to ensure that the hotels are more efficient since now they can have their menus online in soft copies hence making their work easier. 
+## Tecnologies used
+- css
+- html 
+- javascript
+## How the app online
+- The app can accessed via this [link](https://manasse8002.github.io/Project-1-ph1/)
 ## How to install and run my project
-Clone this repository to your local machine.
-Navigate to the project directory in your terminal.
-Then navigate to your browser to check it's workability
+- step 1. Use the following to clone my repo to your local environment.
+
+        git@github.com:Manasse8002/Project-1-ph1.git
+
+- step 2. Navigate to the cloned repository and run the following commands to open it on vscode
+
+        code .
+
+- step 3. Run the following commmand to intall the necessary dependencies
+
+        npm install
+
+- step 4. Run the app using liveserver or click the index.html file and open it on browser.
+
 
 ## How to use my project
-use this link to my repo https://github.com/Manasse8002/Project-1-ph1
 once it loads on your browser you should be able to see some different dishes of sea foods
 You should also be able to see the sea food's specific names 
 you also can press the like button if you like a meal
 
-## Credits
+## Author
 This project was created by Manasse kariuki.
 
 ## How to contribute to project
-To contribute to the project email the owner using (manassemburu@gmail.com)
-
-## Licence
-MIT License
-
-Copyright (c) 2023 Manasse
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+To contribute to the project email the owner using [email](manassemburu@gmail.com)
