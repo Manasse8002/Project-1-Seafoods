@@ -10,7 +10,7 @@ The purpose of the app is to ensure that the hotels are more efficient since now
 - css
 - html 
 - javascript
-## How the access app online
+## How to access the app online
 - The app can accessed via this [link](https://manasse8002.github.io/Project-1-ph1/)
 ## How to install and run my project
 - step 1. Use the following to clone my repo to your local environment.
@@ -36,5 +36,5 @@ you also can press the like button if you like a meal
 ## Author
 This project was created by Manasse kariuki.
 
-## How to contribute to project
+## How to contribute to the project
 To contribute to the project email the owner using [email](manassemburu@gmail.com)
